@@ -1,3 +1,22 @@
+@media (min-width: 319px) and (max-width : 700px) {
+    .mountain{
+        height: 50%;
+        width: 50%;
+    }
+    .top-cloud {
+        position: absolute;
+        right: 150px;
+        top: 20px;
+    }
+    
+    
+    .bottom-cloud {
+        position: absolute;
+        left: 120px;
+        bottom: 150px;
+    }
+}
+
 body{
     margin: 0;
 }
